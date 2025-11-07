@@ -1,2 +1,2 @@
 # MoviControlJax
-Ejemplo Aplicacion Registro de Mantenimientos para Unidades de Transporte Público, Control de Gastos y Ganancias. Kotlin
+Ejemplo Aplicacion Registro de Mantenimientos para Unidades de Transporte, Control de Gastos y Ganancias. Kotlin
