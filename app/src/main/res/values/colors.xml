@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#352054</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="pink">#C4DC17F2</color>
+    <color name="purple_light">#C4D8ADF2</color>
+
+    <color name="BluePetrolPrincipal">#0F4C5C</color>
+    <color name="GreenEsmeralda">#10B981</color>
+    <color name="GrayLight">#F3F4F6</color>
+    <color name="BlueLight">#A93B82F6</color>
+    <color name="BlueLightDash">#DCEBFF</color>
+    <color name="Disable">#C4C4C4</color>
+    <color name="DisableRed">#FF4141</color>
+    <color name="DisableYellow">#F5E02D</color>
+    <color name="DisableGreen">#56FF0E</color>
+
+    <color name="TextPrimary">#1E3A8A</color>
+    <color name="InputBorder">#2563EB</color>
+
+    <color name="ButtonPrimary">#2563EB</color>
+    <color name="ButtonPressed">#1D4ED8</color>
+
+    <color name="TextSecondary">#374151</color>
+    <color name="TextHint">#6B7280</color>
+</resources>
